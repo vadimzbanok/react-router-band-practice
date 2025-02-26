@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import image from "../images/vocals.jpeg";
+import image from "../../public/images/vocals.jpeg";
 
 const Vocals = () => {
   return (

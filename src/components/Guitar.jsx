@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { image } from "motion/react-client";
+import image from "../../public/images/guitar.jpeg";
 
 const Guitar = () => {
   return (
