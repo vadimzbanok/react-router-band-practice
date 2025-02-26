@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { image } from "motion/react-client";
 
 const Guitar = () => {
   return (
@@ -8,7 +9,7 @@ const Guitar = () => {
         initial={{ opacity: 0 }}
         transition={{ duration: 2.5 }}
         className="guitar-img"
-        src="public/images/Flux_Dev_A_dramatic_portrait_of_Metallicas_lead_guitarist_Jame_2.jpeg"
+        src={image}
         alt="guitarist"
       />
     </div>

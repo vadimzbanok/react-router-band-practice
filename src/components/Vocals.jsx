@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import image from "../images/vocals.jpeg";
 
 const Vocals = () => {
   return (
@@ -8,7 +9,7 @@ const Vocals = () => {
         initial={{ opacity: 0 }}
         transition={{ duration: 2.5 }}
         className="vocals-img"
-        src="public/images/Flux_Dev_A_dramatic_portrait_of_James_Hetfield_the_iconic_lead_2.jpeg"
+        src={image}
         alt="vocalist"
       />
     </div>
