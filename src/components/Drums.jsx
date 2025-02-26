@@ -8,7 +8,7 @@ const Drums = () => {
         initial={{ opacity: 0 }}
         transition={{ duration: 2.5 }}
         className="drums-img"
-        src="public/images-ex-164/drums.jpeg"
+        src="public/images/drums.jpeg"
         alt="drums"
       />
     </div>

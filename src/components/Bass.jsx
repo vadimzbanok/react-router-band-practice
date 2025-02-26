@@ -8,7 +8,7 @@ const Bass = () => {
         initial={{ opacity: 0 }}
         transition={{ duration: 2.5 }}
         className="bass-img"
-        src="public/images-ex-164/bass.jpeg"
+        src="public/images/bass.jpeg"
         alt="bass"
       />
     </div>

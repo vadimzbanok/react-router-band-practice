@@ -8,7 +8,7 @@ const Vocals = () => {
         initial={{ opacity: 0 }}
         transition={{ duration: 2.5 }}
         className="vocals-img"
-        src="public/images-ex-164/vocals.jpeg"
+        src="public/images/vocals.jpeg"
         alt="vocalist"
       />
     </div>

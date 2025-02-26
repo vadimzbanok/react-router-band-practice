@@ -8,7 +8,7 @@ const Guitar = () => {
         initial={{ opacity: 0 }}
         transition={{ duration: 2.5 }}
         className="guitar-img"
-        src="public/images-ex-164/guitar.jpeg"
+        src="public/images/guitar.jpeg"
         alt="guitarist"
       />
     </div>
