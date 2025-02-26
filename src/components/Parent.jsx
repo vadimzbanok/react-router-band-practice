@@ -1,13 +1,13 @@
 import { NavLink, Outlet } from "react-router-dom";
 import "../App.css";
-import Footer from "./Footer";
+import image from "../../public/images/logo.png"
 
 const Parent = () => {
   return (
     <>
       <img
         className="logo-metallica"
-        src="public/images-ex-164/logo.png"
+        src={image}
         alt="logo"
       />
 
